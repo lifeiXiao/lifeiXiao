@@ -4,8 +4,8 @@ I completed my **master's studies at Nanjing University of Information Science a
 
 ## Honors & awards
 
-- **First-Class Academic Scholarship (一等学业奖学金)** — Nanjing University of Information Science and Technology.
-- **Outstanding Graduate (优秀毕业生)** — Nanjing University of Information Science and Technology.
+- **First-Class Academic Scholarship** — Nanjing University of Information Science and Technology.
+- **Outstanding Graduate** — Nanjing University of Information Science and Technology.
 
 ## Research background
 
