@@ -2,6 +2,14 @@
 
 I completed my **master's studies at Nanjing University of Information Science and Technology (NUIST)**, where I worked with the **HCI Lab** on **3D computer vision, computer graphics, and robotics**.
 
+## Academic achievements
+
+**GNFM: Generalizable NeRF with View-Aware Feature Modulation for Reflective Surgical Instrument Rendering toward Robot-assisted Surgery**  
+**Lifei Xiao**, Zhenjie Zhao  
+*Computational Visual Media Conference (CVM 2026), Seoul, South Korea.*  
+**Status:** Accepted as a poster paper; awaiting publication.  
+[Conference program](https://iccvm.org/2026/program.htm) · [Code & dataset](https://github.com/lifeiXiao/GNFM)
+
 ## Research background
 
 My research has explored **neural radiance fields (NeRF), neural rendering, and 3D perception**, with applications in robotic grasping and surgical instrument rendering. Related projects include:
