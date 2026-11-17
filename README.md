@@ -2,6 +2,12 @@
 
 I completed my **master's studies at Nanjing University of Information Science and Technology (NUIST)**, where I worked with the **HCI Lab** on **3D computer vision, computer graphics, and robotics**.
 
+I'm currently an **SRE Engineer at Sinopharm**, working on system reliability, AIOps, and operational automation.
+
+## PhD opportunities
+
+I'm interested in pursuing a **PhD in world models, embodied AI, or robotics**. I welcome conversations with prospective supervisors about potential research opportunities that build on my academic background.
+
 ## Research background
 
 My research has explored **neural radiance fields (NeRF), neural rendering, and 3D perception**, with applications in robotic grasping and surgical instrument rendering. Related projects include:
@@ -11,10 +17,6 @@ My research has explored **neural radiance fields (NeRF), neural rendering, and 
 - **[GraspDNeRF](https://github.com/lifeiXiao/GraspDNeRF)** — Grasp detection based on neural radiance fields.
 
 I continue to explore **world models, embodied AI, robot learning, and 3D perception**. I'm particularly interested in how learned representations connect perception, prediction, and planning, and help robots interact with the physical world.
-
-## PhD opportunities
-
-I'm interested in pursuing a **PhD in world models, embodied AI, or robotics**. I welcome conversations with prospective supervisors about potential research opportunities that build on my academic background.
 
 ## Academic achievements
 
@@ -28,10 +30,6 @@ I'm interested in pursuing a **PhD in world models, embodied AI, or robotics**. 
 
 - **First-Class Academic Scholarship** — Nanjing University of Information Science and Technology.
 - **Outstanding Graduate** — Nanjing University of Information Science and Technology.
-
-## Current work
-
-I'm currently an **SRE Engineer at Sinopharm**, working on system reliability, AIOps, and operational automation.
 
 ## Contact
 
