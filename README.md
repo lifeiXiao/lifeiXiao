@@ -24,7 +24,7 @@ I continue to explore **world models, embodied AI, robot learning, and 3D percep
 **Lifei Xiao**, Zhenjie Zhao  
 *Computational Visual Media Conference (CVM 2026), Seoul, South Korea.*  
 **Status:** Accepted as a poster paper; awaiting publication.  
-[Conference program](https://iccvm.org/2026/program.htm) · [Code & dataset](https://github.com/lifeiXiao/GNFM)
+[Code & dataset](https://github.com/lifeiXiao/GNFM)
 
 ## Honors & awards
 
