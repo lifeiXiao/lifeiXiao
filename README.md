@@ -10,6 +10,11 @@ I completed my **master's studies at Nanjing University of Information Science a
 **Status:** Accepted as a poster paper; awaiting publication.  
 [Conference program](https://iccvm.org/2026/program.htm) · [Code & dataset](https://github.com/lifeiXiao/GNFM)
 
+## Honors & awards
+
+- **First-Class Academic Scholarship (一等学业奖学金)** — Nanjing University of Information Science and Technology.
+- **Outstanding Graduate (优秀毕业生)** — Nanjing University of Information Science and Technology.
+
 ## Research background
 
 My research has explored **neural radiance fields (NeRF), neural rendering, and 3D perception**, with applications in robotic grasping and surgical instrument rendering. Related projects include:
