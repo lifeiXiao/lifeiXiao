@@ -1,4 +1,6 @@
-# Hi, I'm Lifei Xiao 👋
+<p align="center">
+  <img src="./assets/profile-header.png" width="100%" alt="Hi, I’m Lifei Xiao — 3D Vision, Robotics, and World Models. SRE Engineer exploring Embodied AI, with a friendly waving robot illustration.">
+</p>
 
 I completed my **master's studies at Nanjing University of Information Science and Technology (NUIST)**, where I worked with the **HCI Lab** on **3D computer vision, computer graphics, and robotics**.
 
